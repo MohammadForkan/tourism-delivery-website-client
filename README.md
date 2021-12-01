@@ -1,14 +1,25 @@
-# Tourism Bangladesh and World Tour Related Website.
+## [Tourism Delivery Service](https://genius-car-mechanics-4c847.web.app/)
+Welcome to Tourism Delivery Service. This is a Tourism website. This repository contains client site code.
+<br/>
+<br/>
+<img src="https://i.ibb.co/Z6DnP0c/p4.png" />
 
- # Live Link :: https://genius-car-mechanics-4c847.web.app/placeOrder
+### Features:
+- Fully responsive full-stack app with firebase authentication.
+-	Customers can add or remove products from my orders. They also able to increase or decrease quantity from cart.
+- Customers can place order from checkout page and check their orders from orders page.
 
-# What is the purpose of tourism website?
 
-## Tourism websites influence tourists' perceptions and impressions, which significantly determines their plan to visit a destination. Thus, to affect tourists' perception, more information should be provided to them through different websites. It will help in increasing the number of visitors to the destination.
+### Technology:
+- React js
+- Redux
+- React Router
+- Material UI
+- Node js
+- Express js
+- MongoDB
+- Firebase 
+- Heroku
 
-## Tourism websites influence tourists' perceptions and impressions, which significantly determines their plan to visit a destination. Thus, to affect tourists' perception, more information should be provided to them through different websites. It will help in increasing the number of visitors to the destination.
 
-## Tourism websites influence tourists' perceptions and impressions, which significantly determines their plan to visit a destination. Thus, to affect tourists' perception, more information should be provided to them through different websites. It will help in increasing the number of visitors to the destination.
-
-## Tourism websites influence tourists' perceptions and impressions, which significantly determines their plan to visit a destination. Thus, to affect tourists' perception, more information should be provided to them through different websites. It will help in increasing the number of visitors to the destination.
-
+You can see client side code in [Tourism Delivery Service](https://github.com/MohammadForkan/tourism-delivery-website-client)
